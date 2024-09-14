@@ -11,10 +11,10 @@ This project is designed to provide a visually appealing platform for showcasing
 -Note: While the current version provides essential functionalities, there are plans for further enhancements and additional features in future updates!
 
 ### Key Features:
--📷 Photo Gallery: View and browse a collection of high-resolution images.
--✨ Responsive Design: Optimized for a seamless experience on all screen sizes and devices.
--🔍 Search Functionality: Easily search for specific photos within the gallery.
--⭐ Favorite Photos Section: Manage and view your favorite photos with ease.
+- 📷 **Photo Gallery**: View and browse a collection of high-resolution images.
+- ✨ **Responsive Design**: Optimized for a seamless experience on all screen sizes and devices.
+- 🔍 **Search Functionality**: Easily search for specific photos within the gallery.
+- ⭐ **Favorite Photos Section**: Manage and view your favorite photos with ease.
 
 -Note: All photos displayed on this website are original works taken by me.
 
